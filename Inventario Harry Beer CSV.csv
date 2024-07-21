@@ -1,0 +1,308 @@
+﻿Categoria;Item;Referencia;Cantidad;Estado;Costo promedio;Total
+Cerveza;Czechvar Botella 330ml;8594403110128;0;Activo;$18.961;$0
+Cerveza;Liefmans Fruitesse 250 ml;5411686700118;4;Activo;$4.360;$17.439
+Cerveza;Duvel 330 ml;5411681014005;0;Activo;$9.814;$0
+Cerveza;Maredsous Blonde Blond  330 ml;5411681035000;0;Activo;$19.423;$0
+Cerveza;Maredsous Brune  330 ml;5411681037004;0;Activo;$10.189;$0
+Cerveza;Maredsous Triple  330 ml;5411681038001;0;Activo;$7.809;$0
+Cerveza;Vedett Extra IPA 330ml;5411681401775;0;Activo;$9.362;$0
+Cerveza;Vedett Extra White 330ml;5411681400310;0;Activo;$4.418;$0
+Cerveza;Paulaner Dunkel Botella 500ml;4066600303336;3;Activo;$18.273;$54.819
+Cerveza sin alcohol;Paulaner Alkoholfrei  Sin Alcohol 500ml;4066600612049;0;Activo;$4.288;$0
+Cerveza;Paulaner Salvator DoppelBock Lager 330ml;4066600611349;0;Activo;$7.414;$0
+Cerveza;Adnams Ghost Ship Pale Ale 500ml;4600682407478;2;Activo;$28.834;$57.668
+Cerveza;Adnams Blakshore Stout 500ml;4600682011477;1;Activo;$15.173;$15.173
+Cerveza;Adnams  Kobold English 500ml;4600682009450;2;Activo;$34.993;$69.985
+Cerveza;Kristoffel White 330ml;5011885003647;5;Activo;$11.916;$59.580
+Cerveza;Kristoffel Blonde 330ml;5411616000448;5;Activo;$15.007;$75.033
+Cerveza;Straffe Hendrik Quadrupel 330ml;5011885008338;0;Activo;$47.848;$0
+Cerveza;Sidra Brothers 330ml;5027342002962;24;Activo;$10.557;$253.367
+Cerveza;Liefmans Kriek Brut 330 ml;5411686700637;0;Activo;$9.445;$0
+Cerveza;Liefmans Goudenband 330 ml;5411686700668;0;Activo;$9.445;$0
+Cerveza;Weidmann Strong 500ml;8718104901599;12;Activo;$7.518;$90.222
+Sidra;Sidra Aspall Draught 330ml;5012845177255;0;Activo;$7.706;$0
+Sidra;Sidra Stowford Press 500ml;5014201800654;0;Activo;$23.985;$0
+Cerveza;Paulaner NaturTrub  Weissbier Barril 5 Litros 5l;4066600601951;0;Activo;$5.482;$0
+Cerveza;Paulaner Ocktoberfest Botella 500ml;;0;Activo;$8.507;$0
+Cerveza;Paulaner Weissbier Botella 500ml;4066600060741;4;Activo;$1.012;$4.048
+Cerveza;Delirium Tremens 330ml;5412186000098;11;Activo;$37.095;$408.046
+Cerveza;Aguila Original Botella 330ml;7702004002013;0;Activo;$1.937;$0
+Cerveza;Pokeron Poker 750ml;7702004007643;23;Activo;$4.450;$102.345
+Cerveza;Costeña Bacana 330Ml;7702004005649;0;Activo;$1.549;$0
+Cerveza;Cola Y Pola Botella 330ml;;0;Activo;$1.600;$0
+Cerveza;Aguila Light Botella 330ml;7702004002051;0;Activo;$2.083;$0
+Cerveza;Paulaner Weissbier  Lata 500ml;4066600601920;-3;Activo;$10.541;-$31.623
+Cerveza;Chimay Roja 330 ml;5410908000012;0;Activo;$11.682;$0
+Cerveza;Chimay Blanca 330ml;5410908000029;2;Activo;$19.680;$39.361
+Cerveza;Schofferhofer 500ml;4053400001838;0;Activo;$5.146;$0
+Cerveza;Erdinger Pikantus 500ml;4002103257707;2;Activo;$8.184;$16.368
+Cerveza;Brewdog Punk Ipa 1996 330ml;5056025440494;0;Activo;$17.917;$0
+Bebidas no alcoholicas;Bretaña 300ml;;10;Activo;$437;-$3.058
+Bebidas no alcoholicas;Agua Cristal 600ml;7702090022711;21;Activo;$1.180;$24.787
+Cerveza;Poker Pura Malta Lata 330ml;7702004008077;0;Activo;$1.110;$0
+Cerveza;Stella Artois Lata 250Ml;5410228240945;0;Activo;$1.098;$0
+Cerveza;Stella Artois Botella 330ml;7501064199141;40;Activo;$2.610;$104.388
+Cerveza;Budweiser 330ml;7702004110596;10;Activo;$1.222;-$14.669
+Cerveza;Club Colombia Dorada Lata 330Ml;7702004003508;74;Activo;$2.123;$157.092
+Cerveza;Club Colombia Roja Lata 330ml;7702004003621;43;Activo;$2.641;$113.582
+Cerveza;Corona Extra 355ml;7702004110718;40;Activo;$4.947;$197.861
+Cerveza;Coronita 210ml;7702004110701;40;Activo;$2.107;$84.282
+Licores;Vodka Smirnoff Lulo 750Ml;7707096271682;2;Activo;$19.538;$39.076
+Licores;Electrolit;7702534100029;3;Activo;$6.800;$20.400
+Licores;Sabajon Apolo Vainilla 750ml;7702534100012;0;Activo;$12.948;$0
+Licores;Crema Les Deux 750ml;;0;Activo;$19.679;$0
+Licores;Crema De Ron Cheers 750ml;7702168247732;0;Activo;$27.921;$0
+Licores;Crema Baileys 375ml;5011013100194;1;Activo;$30.212;$30.212
+Licores;Ginebra Tanqueray 750ml;5000281015248;1;Activo;$65.327;$65.327
+Licores;Ginebra Bombay 500ml;5010677713009;0;Activo;$23.238;$0
+Licores;Ginebra Gordons 700ml;5000289925440;0;Activo;$36.452;$0
+Licores;Ron Medellin 375ml;7702049100583;4;Activo;$14.947;$59.789
+Licores;Ron Caldas Roble Blanco 750ml;;3;Activo;$399.413;$1.198.238
+Licores;Ron Caldas 8 Años 375Ml;7702168254402;1;Activo;$26.070;$26.070
+Licores;Ron Caldas 5 Años 375 ml;7702168240405;1;Activo;$30.854;$30.854
+Licores;Ron Bacardi Mojito 750ml;80480985462;1;Activo;$20.198;$20.198
+Licores;Ron Bacardí Tradicional 750ml;7501008603017;1;Activo;$27.477;$27.477
+Licores;Ron Caldas 5 Años 750ml;7702168239201;2;Activo;$95.746;$191.492
+Licores;Ron Bacardi Limon 375ml;80480355609;0;Activo;$15.063;$0
+Licores;Tequila Olmeca Blanco 750Ml;80432402191;2;Activo;$46.225;$92.450
+Licores;Tequila Jimador Blanco 750Ml;744607002301;1;Activo;$39.929;$39.929
+Licores;Tequila Jose Cuervo Blanco 750Ml;7501035042322;1;Activo;$48.368;$48.368
+Licores;Tequila Jose Cuervo Reposado 375ml;7501035010284;1;Activo;$29.275;$29.275
+Licores;Tequila Jose Cuervo Reposado 750Ml;7501035010109;1;Activo;$0;$0
+Licores;Rancho Escondido 750ml;7503001506876;3;Activo;$27.409;$82.228
+Licores;Tequila Jimador Reposado 375Ml;744607002318;-1;Activo;$35.555;-$35.555
+Licores;Tequila Jimador Cristalino 700Ml;;0;Activo;$53.731;$0
+Licores;Vodka Smirnoff Lulo 375Ml;7707096225951;1;Activo;$11.934;$11.934
+Licores;Vodka Absolut Citron 700Ml;7312040090709;1;Activo;$37.810;$37.810
+Licores;Vodka Absolut Blue 350ml;7312040017355;0;Activo;$29.112;$0
+Licores;Vodka Absolut Blue 700ml;7312040017683;0;Activo;$20.531;$0
+Licores;Vodka Smirnoff 700ml;5410316942775;1;Activo;$40.470;$40.470
+Licores;Aguardiente Nectar Club Verde 750ml;7702404005041;3;Activo;$30.621;$91.863
+Licores;Aguardiente Nectar Club Verde 375ml;7702404005034;2;Activo;$4.835;$9.670
+Licores;Aguardiente Antioqueño Azul 750ml;7702049000531;3;Activo;$25.821;$77.462
+Licores;Aguardiente Nectar Rojo 750ml;7702404000046;0;Activo;$13.536;$0
+Licores;Aguardiente Nectar Rojo 375ml;7702404000039;0;Activo;$8.165;$0
+Licores;Aguardiente Antioqueño Rojo 375ml;7702049000449;0;Activo;$14.965;$0
+Licores;Aguardiente Antioqueño Rojo 750ml;7702049000432;3;Activo;$26.459;$79.376
+Licores;Aguardiante Nectar Azul 375ml;7702404006031;2;Activo;$9.644;$19.288
+Licores;Aguardiente Antioqueño Verde 750ml;7702049001644;5;Activo;$23.510;$117.552
+Licores;Whisky Chivas 12 años 700Ml;080432402931;1;Activo;$75.639;$75.639
+Licores;Whisky Black Label 375Ml;5000267024608;2;Activo;$43.550;$87.099
+Licores;Whisky Red Label 375ml;5000267014609;1;Activo;$18.895;$18.895
+Licores;Whisky Black And White 700Ml;50196135;1;Activo;$20.422;$20.422
+Licores;Whisky Black Label 700Ml;;1;Activo;$86.056;$86.056
+Licores;Whisky Buchanans 12 Años 375Ml;50196395;1;Activo;$50.262;$50.262
+Licores;Whisky Buchanans 12 Años 750Ml;50196388;0;Activo;$139.000;$0
+Licores;Whisky Old Park 500Ml;5000281005034;2;Activo;$59.558;$119.115
+Licores;Aguardiente Amarillo 750ml;;0;Activo;$27.500;$0
+Licores;Whisky Red Label 700ml;5000267014203;2;Activo;$35.774;$71.547
+Licores;Whisky Black Label 1000ml;;0;Activo;$62.452;$0
+Bebidas no alcoholicas;Jugo hit Mango 500ml;7702090029864;17;Activo;$937;$15.936
+Cerveza;Abbaye D´aulne Blonde 330ml;5412652000010;0;Activo;$7.337;$0
+Cerveza;Abbaye D´aulne Brune 330ml;5412652000065;0;Activo;$6.332;$0
+Cerveza;Abbaye D´aulne Cuvée Royale 330ml;5412652000089;0;Activo;$27.400;$0
+Cerveza;Blanche Di Charleroi 330ml;5412652001505;2;Activo;$11.900;$23.800
+Cerveza;Erdinger Dunkel 500ml;4002103248651;0;Activo;$10.310;$0
+Cerveza;Poker Lata 330Ml;7702004007360;0;Activo;$1.819;$0
+Cerveza;Poker Doble Malta Lata 330Ml DESCONTINUADO;;-1;Inactivo;$1.225;-$1.225
+Bebidas no alcoholicas;H2Oh Lima Limon 600ml;;0;Activo;$2.081;$0
+Cerveza;Erdinger Weissbrau Weibbier 500ml;4002103248637;0;Activo;$9.847;$0
+Bebidas no alcoholicas;Canada Dry 10Onz 300ml;7702090020922;7;Activo;$1.422;$9.951
+Bebidas no alcoholicas;Gaseosa 7Up 400ml;7702090031973;0;Activo;$1.821;$0
+Bebidas no alcoholicas;Jugo Hit Mora 500ml;7702090029857;10;Activo;$875;$8.750
+Bebidas no alcoholicas;Jugo Hit Naranja-Piña 500ml;7702090029871;0;Activo;$1.744;$0
+Bebidas no alcoholicas;Gaseosa Manzana 400ml;7702090031928;0;Activo;$1.050;$0
+Bebidas no alcoholicas;Seventu Pet400;;7;Activo;$1.050;$7.353
+Bebidas no alcoholicas;Gaseosa colombiana 400ml;7702090032017;0;Activo;$1.050;$0
+Bebidas Energizante;Red Bull 250ml;;0;Activo;$3.727;$0
+Bebidas no alcoholicas;Limonata H2OH 600ml;7702090044577;0;Activo;$1.821;$0
+Bebidas no alcoholicas;Gaseosa Uva 400ml;7702090031942;0;Activo;$1.050;$0
+Bebidas no alcoholicas;Jugo Hit Tropical 500ml;7702090029888;0;Activo;$1.719;$0
+Bebidas no alcoholicas;Agua Cristal Con Gas 600ml;7702090023008;0;Activo;$1.240;$0
+Cerveza;Abbaye D´aulne Premier Cru 330ml;5412652000034;3;Activo;$13.700;$41.100
+Cerveza;Brewdog Hazy Jane 330ml;;0;Activo;$8.746;$0
+Cerveza;Innis & Gunn 330ml;;0;Activo;$9.839;$0
+Cerveza;Chimay azul  330ML;5410908000036;0;Activo;$16.080;$0
+Snacks;Super Rica Todo Rico BBQ 150g;;13;Activo;$5.742;$74.641
+Merchandaising;Vaso Munich Harry Beer Station;;-29;Activo;$0;$0
+Snacks;Super Rica Papas Pollo 105g;;14;Activo;$4.933;$69.067
+Cerveza;Aguilon Aguila Original 750ml;;0;Activo;$777.777;$0
+Cerveza;Aguila 0.0 Lata 330ml;;0;Activo;$777.777;$0
+Cerveza;Promoción combo;;0;Activo;$777.777;$0
+Cerveza;Poker Botella 330ml;;0;Activo;$1.631;$0
+Licores;Ginebra Gordons Pink 700ml;5000289929417;1;Activo;$548.220;$548.220
+Licores;Ron Bacardi Añejo 8 Años 750ml;;-1;Activo;$81.900;-$81.900
+Licores;Ron Caldas tradicional 375ml;;2;Activo;$18.201;$36.401
+Licores;Tequila Don Julio Reposado 700Ml;;2;Activo;$149.508;$299.016
+Licores;Whisky Jhonie Walker White 700ml;5000267173115;1;Activo;$62.452;$62.452
+Bebidas no alcoholicas;Speed Max 250ml;7702090039436;2;Activo;$808;$1.616
+Licores;Michelada;Miechelada;2961;Activo;$0;$0
+Snacks;Empanada Carne;;100;Activo;$2.422;-$1.387.681
+Bebidas no alcoholicas;CocaCola 400ml;7702535011089;18;Activo;$3.326;$59.874
+Cerveza;Aguila Original Lata 330ml;7702004001917;0;Activo;$4.130;$0
+Licores;Whisky Something Special Botella 1000ml;;0;Activo;$11.579;$0
+Cocteleria;Coctel Mojito Tradicional;;-330;Activo;$0;$0
+Cerveza;Kristoffel Rose  330ml;5411616007409;-18;Activo;$15.136;-$272.444
+Cerveza;Club Colombia Negra Lata 330Ml;;5;Activo;$11.215;$56.075
+Licores;Smirnoff Ice Original;5410316997980;6;Activo;$6.519;$39.113
+Cerveza;Adnams Innvovation Ipa 330ml;;4;Activo;$14.355;$57.419
+Licores;Jack daniels  750ml;082184090466;0;Activo;$146.520;$0
+Cerveza;Gulden Draak Classic 330ml;5411663002716;3;Activo;$15.576;$46.728
+Cerveza;Gulden Draak Guadruple 330ml;5411663002846;0;Activo;$12.904;$0
+Licores;Aguardiente Antioqueño Verde 375ml;;1;Activo;$24.548;$24.548
+Cerveza;Poker Botella 1000ml;7702004007889;9;Activo;$4.790;$43.106
+Snacks;Super Rica Todo Rico Original 150g;7702152109695;7;Activo;$6.240;$43.677
+Cerveza;Costeña original botella 330ml;;0;Activo;$2.167;$0
+Licores;Shot Tequila José Cuervo 30 ml;;-57;Activo;$2.750;-$156.750
+Licores;Shot Red Label 30ml;;-6;Activo;$954;-$5.724
+Cerveza;Delirium Nocturnum 330ml;5412186000715;2;Activo;$58.267;$116.534
+Cerveza;Delirium christmas 330ml;5412186001071;0;Activo;$24.120;$0
+Cerveza;Floris framboise 330ml;5412186001217;4;Activo;$14.063;$56.252
+Cerveza;Floris Passion 330ml;5412186000272;3;Activo;$14.063;$42.189
+Licores;Aguardiente Antioqueño Azul 375ml;;3;Activo;$30.619;$91.857
+Licores;Chorrito Ardiente Sin Azucar 1000ml;;4;Activo;$10.232;$40.928
+Licores;Aguardiente Nectar Club 1000ml;;0;Activo;$4.534;$0
+Licores;Whisky Chivas 13 años 750ml;;2;Activo;$89.746;$179.492
+Licores;Whisky Buchanans 12 años 1l;;1;Activo;$116.992;$116.992
+Cerveza;Aguila Light Lata 330ml;;12;Activo;$3.644;$43.725
+Licores;Shot Jack Daniels;;-6;Activo;$3.660;-$21.960
+Licores;Shot Antioqueño Rojo 30ML;;-20;Activo;$1.304;-$26.080
+Licores;Vaso Whiskero Harry Beer Station;;-2;Activo;$0;$0
+Licores;shot ginebra bombay;;12;Activo;$4.250;$51.000
+Cocteleria;Coctel Gin Tonic Tradicional;;-76;Activo;$0;$0
+Cocteleria;Coctel De Maracuya Reposado;;-284;Activo;$0;$0
+Cocteleria;Aperol 750ml;721059001311;1;Activo;$41.014;$41.014
+Cocteleria;Granadina 1.000 ml;;2;Activo;$65.539;$131.077
+Cocteleria;Ginebra Beefeater 750ml;;1;Activo;$340.839;$340.839
+Cocteleria;Gotas Amargas 130ml;;1;Activo;$4.034;$4.034
+Cocteleria;Convier Triple Sec Blanco 750ml;;1;Activo;$9.459;$9.459
+Licores;Whisky Jagermeister 350ml;;0;Activo;$19.202;$0
+Cocteleria;Agua Tonica Canada Dry 300ml;;0;Activo;$1.569;$0
+Cocteleria;Convier Triple Sec Azul 750ml;;4;Activo;$104.733;$418.930
+Bebidas no alcoholicas;Agua Tonica  1976 Jengibre;;0;Activo;$3.764;$0
+Licores;Shot Jagermeister;;-28;Activo;$3.825;-$107.100
+Cerveza;Costeña Bacana Lata 330ml;;0;Activo;$1.198;$0
+Licores;Tequila Olmeca Reposado 700ml;;3;Activo;$285.336;$856.007
+Merchandaising;Encendedor harry beer;;-1;Activo;$266;-$266
+Cocteleria;Ginebra Bombay 1Lt;5010677716000;0;Activo;$42.524;$0
+Bebidas no alcoholicas;Agua Tonica 1976 Ocean;;0;Activo;$4.181;$0
+Bebidas no alcoholicas;Agua Tonica 1976 0 Calorias;;0;Activo;$3.908;$0
+Bebidas no alcoholicas;Agua Tonica 1976 Indi;;0;Activo;$4.244;$0
+Cerveza;Costeña original Lata 330ml;;0;Activo;$1.074;$0
+Licores;shot Vodka Absolut Blue;;5;Activo;$1.639;$8.195
+Licores;Shot Ron Caldas 5 Años;;-15;Activo;$0;$0
+Licores;Shot Aguardiente Nectar Verde;;-1;Activo;$0;$0
+Licores;Coctel shot bandera;;-7;Activo;$0;$0
+Licores;Coctel Cuba Libre;;-41;Activo;$0;$0
+Licores;Coctel Margarita Blue;;-327;Activo;$0;$0
+Licores;Coctel Pecera Coctelera;;-78;Activo;$0;$0
+Licores;Coctel Capitan Mandarina;;-59;Activo;$0;$0
+Cerveza;Delirium Christmas 750ml;5412186000975;0;Activo;$33.796;$0
+Cerveza;Gulden Draak Classic 750 ml;5411663002723;1;Activo;$32.536;$32.536
+Cerveza;Gulden Draak Quadruple 750 ml;5411663002853;0;Activo;$32.536;$0
+Licores;Coctel Mosco Mule;;-54;Activo;$0;$0
+Bebidas no alcoholicas;Aromática De Frutos Rojos;;-90;Activo;$0;$0
+Licores;Vaso De Cerveza Negra 330ml;;30;Activo;$2.692;$80.747
+Licores;Vaso De Cerveza Rosada 330ml;;9;Activo;$11.101;$99.905
+Licores;Schweppes Ginger 1.75L;;6;Activo;$2.868;$17.209
+Licores;coctel shot de la casa;;-4;Activo;$0;$0
+Licores;Whisky chivas 13 años 375ml;;0;Activo;$51.132;$0
+Licores;WHISKY CHIVAS EXTRA CJ*24*375;;1;Activo;$0;$0
+Licores;Michelada Rosada;;-53;Activo;$0;$0
+Licores;coctel Shot La Coqueta;;-3;Activo;$0;$0
+Licores;Tequila Olmeca Reposado 375ml;;1;Activo;$29.916;$29.916
+Licores;Chouffe 330ml;5410769100081;0;Activo;$9.655;$0
+Licores;Ginebra Bombay 700ml;;1;Activo;$451.707;$451.707
+Snacks;Super Rica Papas Costillas BBQ 115gr;;0;Activo;$3.918;$0
+Snacks;Super Rica Nachos 170gr;;0;Activo;$2.827;$0
+Snacks;Super Rica Papas De Tomate 105gr;;0;Activo;$2.001;$0
+Snacks;Gatorade 500ml;;3;Activo;$9.772;$29.317
+Licores;Ron de Caldas Tradicional 750ml;;2;Activo;$28.072;$56.144
+Licores;Ron Medellin 750ml;;1;Activo;$26.980;$26.980
+Licores;Whisky Buchanas 18 Años 750ml;;1;Activo;$183.930;$183.930
+Licores;Whisky Chivas 12 Años 375ml;;1;Activo;$47.410;$47.410
+Licores;Whisky Old Park 750ml;;2;Activo;$78.628;$157.255
+Licores;Whisky Jack Daniel's Honey 750ml;;2;Activo;$66.766;$133.532
+Licores;Whisky Buchanan's Master 15 Años 750ml;;1;Activo;$106.824;$106.824
+Snacks;Super Rica Papas De Limòn 105gr;;0;Activo;$2.101;$0
+Licores;Coctel mojito jagermeister;;-77;Activo;$0;$0
+Licores;shot Buchanas;;-40;Activo;$0;$0
+Licores;Vaso De Cerveza Dorada 330ml;;71;Activo;$2.840;$201.625
+Snacks;Super Rica Chicharrón Natural50gr;;0;Activo;$1.584;$0
+Snacks;Super Rica Chicharrón BBQ 50gr;;4;Activo;$5.991;$23.962
+Licores;Tequila Jimador Reposado 750ml;;2;Activo;$57.930;$115.860
+Snacks;Empanada pequeña de carne;;-133;Activo;$1.101;-$146.455
+Snacks;Empanadas Pequeña De Pollo;;-134;Activo;$1.100;-$147.400
+Licores;Coctel Mojito Frutos Rojos y Maracuya;;-351;Activo;$0;$0
+Licores;Ron Bacardi Limon 750ml;7501008616130;1;Activo;$35.780;$35.780
+Licores;Ron Caldas 8 Años 750ml;;0;Activo;$54.729;$0
+Licores;Whisky  Jager Meister  700ml;;0;Activo;$68.164;$0
+Licores;Convier Triple Sec Menta;;1;Activo;$30.509;$30.509
+Snacks;Bonfiest;;-10;Activo;$2.923;-$29.233
+Bebidas no alcoholicas;Convier de cacao;;1;Activo;$156.765;$156.765
+Bebidas no alcoholicas;Convier piña colada;;2;Activo;$35.887;$71.774
+Licores;Aguardiente Amarillo 375ml;;0;Activo;$21.341;$0
+Licores;Coctel Vodka pink;;-48;Activo;$0;$0
+Cerveza;Ac/Dc;;1;Activo;$8.683;$8.683
+Cerveza;Trooper Lata 500ml;;2;Activo;$10.996;$21.991
+Cerveza;Barril Ac/dc 5lts;;0;Activo;$99.895;$0
+Licores;Vino tinto;;2;Activo;$91.815;$183.630
+Cerveza;Brewdog Elvis Juice 330ml;;0;Activo;$14.865;$0
+Cerveza;Abbaye Cuve Royal 750ml;;0;Activo;$37.334;$0
+Cerveza;Delirium Tremens 750ml;;0;Activo;$33.324;$0
+Cerveza;Cachaza 500Ml;;0;Activo;$5.000;$0
+Cerveza;Pisco Demonio 700 Ml;;1;Activo;$66.428;$66.428
+Licores;Michelada Maracumango;;-63;Activo;$0;$0
+Licores;Brandy  Domec;;1;Activo;$90.819;$90.819
+Licores;Crema De Coco  17onz;;3;Activo;$34.757;$104.270
+Bebidas no alcoholicas;Base De Maracuya;;1;Activo;$80.336;$80.336
+Bebidas no alcoholicas;Base de Mango;;3;Activo;$46.302;$138.907
+Bebidas no alcoholicas;Base de durazno;;2;Activo;$41.849;$83.698
+Bebidas no alcoholicas;Tajìne;;3;Activo;$15.098;$45.294
+Bebidas no alcoholicas;Cinzano Dri Martiny 750ml;;2;Activo;$39.093;$78.185
+Licores;Base Margarita;;2;Activo;$36.897;$73.793
+Licores;Vino Caliente;;-70;Activo;$0;$0
+Licores;Coctel Tacama;;-18;Activo;$0;$0
+Licores;Coctel Doraemon;;-8;Activo;$0;$0
+Licores;Coctel Padrino;;-33;Activo;$0;$0
+Licores;Coctel Orgasmo;;-68;Activo;$0;$0
+Licores;Crema Baileys 700Ml;;0;Activo;$67.289;$0
+Licores;Convier Amaretto;;1;Activo;$137.652;$137.652
+Licores;Coctel Piña colada;;-49;Activo;$0;$0
+Licores;Coctel Cabeza De Jabalí;;-24;Activo;$0;$0
+Licores;Coctel Jungla;;-8;Activo;$0;$0
+Cerveza;Erdinger Alkohol free 500ml;;0;Activo;$8.655;$0
+Licores;Coctel Martiny  peach;;-6;Activo;$0;$0
+Licores;Coctel Alquimia;;-7;Activo;$0;$0
+Licores;Coctel Caipiriña;;-43;Activo;$0;$0
+Snacks;Pastel De pollo;;0;Activo;$0;$0
+Snacks;Chorizo Santarosano;;-12;Activo;$1.766;-$21.192
+Cerveza;Barril benediktiner;;0;Activo;$134.490;$0
+Licores;Whisky Jack Daniel's 375ml;;0;Activo;$36.415;$0
+Snacks;Halls Unidad;;73;Activo;$157;$11.434
+Snacks;Trident Paquete;;22;Activo;$2.379;$52.328
+Licores;Jack Daniels Honey 375ml;;0;Activo;$23.145;$0
+Licores;Four loko;;2;Activo;$19.120;$38.241
+Snacks;Picada;;-33;Activo;$8.008;-$264.275
+Licores;Tequila Gran Familia;;0;Activo;$70.189;$0
+Cerveza;Moritz Red Ipa 330ml;;0;Activo;$7.178;$0
+Cerveza;Moritz 7 330ml;;0;Activo;$6.337;$0
+Cerveza;Moritz  barcelona;;0;Activo;$6.337;$0
+Snacks;Trident Unidad;;-1;Activo;$192;-$192
+Cerveza;Delirium Red 330ML;;8;Activo;$25.006;$200.045
+Snacks;Sandwich;;-1;Activo;$0;$0
+Snacks;Salchipapa;;-7;Activo;$0;$0
+Snacks;alitas bbq;;0;Activo;$9.244;$0
+Snacks;Mani Individual;;17;Activo;$1.764;$29.996
+Licores;Vodka Bartender;;2;Activo;$86.516;$173.031
+Licores;Monster Energizante  437ml;;1;Activo;$16.366;$16.366
+Licores;Crema de Whisky Bartender 750ml;;1;Activo;$21.669;$21.669
+Licores;Whisky coctelería;;0;Activo;$10.434;$0
+Licores;Ron Añejo Cocteleria;;1;Activo;$16.981;$16.981
+Cerveza;Delirium Red 750ml;;1;Activo;$35.792;$35.792
+Licores;Ron Medellín Dorado 375ml;;2;Activo;$13.409;$26.818
+Licores;Ron Medellín Dorado 750ml;;1;Activo;$23.399;$23.399
+Cerveza;Cerveza Reds 250ml;;26;Activo;$2.460;$63.972
+Cerveza;Vaso Cerveza Dala;;13;Activo;$13.538;$176.000
+Licores;St. Idesbals Blond 330ml;;2;Activo;$16.556;$33.111
+Licores;Nectar Dorado 750ml;;1;Activo;$22.779;$22.779
